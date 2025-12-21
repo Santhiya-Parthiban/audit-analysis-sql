@@ -1,0 +1,21 @@
+OVERALL CODER ACCURACY
+
+Coder_name	Audit_date	Charts_audited	Error_counts	Accuracy
+Bhakthi	    1/1/2025	        40	            1	       97.5
+Arun	      1/5/2025	        35	            3	       91.43
+Kamali	    1/5/2025	        50	            2	       96
+Niranjan	  1/5/2025	        45	            6	       86.67
+Goutham	    1/5/2025	        30	            0	       100
+
+CODERS WITH LOW QUALITY BELOW
+
+Coder_name	Audit_date	Charts_audited	Error_counts	Accuracy
+Arun	      1/5/2025	         35	          3	         91.43
+Niranjan	  1/5/2025	         45	          6	         86.67
+
+CODERS WITH HIGH QUALITY
+
+Coder_name	Audit_date	Charts_audited	Error_counts	Accuracy
+Bhakthi	    1/1/2025	         40	          1	         97.5
+Kamali	    1/5/2025	         50	          2	         96
+Goutham	    1/5/2025	         30	          0	         100
