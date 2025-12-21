@@ -1,0 +1,10 @@
+CREATE DATABASE audit;
+USE audit;
+CREATE TABLE audits(
+Coder_name VARCHAR(50),
+Audit_Date DATE,
+Charts_audited INT,
+Error_counts INT
+);
+
+
