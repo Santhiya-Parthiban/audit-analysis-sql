@@ -1,6 +1,3 @@
-# audit-analysis-sql
-SQL project to analyze coder's accuracy using views
-
 ## Healthcare Audit Analysis using SQL
 This project analyzes healthcare coding audit data using SQL.
 
